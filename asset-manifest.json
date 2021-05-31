@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tjjyvisa/static/css/main.1e9c9e07.chunk.css",
+    "main.js": "/tjjyvisa/static/js/main.a3d85b2e.chunk.js",
+    "main.js.map": "/tjjyvisa/static/js/main.a3d85b2e.chunk.js.map",
+    "runtime-main.js": "/tjjyvisa/static/js/runtime-main.12b7ee3a.js",
+    "runtime-main.js.map": "/tjjyvisa/static/js/runtime-main.12b7ee3a.js.map",
+    "static/css/2.00bb4513.chunk.css": "/tjjyvisa/static/css/2.00bb4513.chunk.css",
+    "static/js/2.71df62a7.chunk.js": "/tjjyvisa/static/js/2.71df62a7.chunk.js",
+    "static/js/2.71df62a7.chunk.js.map": "/tjjyvisa/static/js/2.71df62a7.chunk.js.map",
+    "static/js/3.b0b8da5f.chunk.js": "/tjjyvisa/static/js/3.b0b8da5f.chunk.js",
+    "static/js/3.b0b8da5f.chunk.js.map": "/tjjyvisa/static/js/3.b0b8da5f.chunk.js.map",
+    "index.html": "/tjjyvisa/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/tjjyvisa/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.1e9c9e07.chunk.css.map": "/tjjyvisa/static/css/main.1e9c9e07.chunk.css.map",
+    "static/js/2.71df62a7.chunk.js.LICENSE.txt": "/tjjyvisa/static/js/2.71df62a7.chunk.js.LICENSE.txt",
+    "static/media/gzh.c4b37ff5.jpg": "/tjjyvisa/static/media/gzh.c4b37ff5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b7ee3a.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.71df62a7.chunk.js",
+    "static/css/main.1e9c9e07.chunk.css",
+    "static/js/main.a3d85b2e.chunk.js"
+  ]
+}
